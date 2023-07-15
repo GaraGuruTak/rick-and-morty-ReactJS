@@ -1,3 +1,10 @@
+Este proyecto esta hecho desde el tuturial gratuito de UDEMY de la siguiente direccion:
+
+https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
